@@ -15,11 +15,6 @@ This is a simple responsive blog layout built using Bootstrap 5. It includes a n
 - Bootstrap 5 CDN
 - Bootstrap Icons
 
-## 📸 Preview
-![Blog Layout Screenshot](https://via.placeholder.com/800x400)
-
-## 🔗 Live Demo
-[GitHub Pages or Vercel Link if deployed]
 
 ## 📁 How to Run
 1. Clone this repo
