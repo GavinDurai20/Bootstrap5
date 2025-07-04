@@ -1,7 +1,5 @@
 # Web Development Internship – Task 8
 
-# Simple Blog Layout Using Bootstrap 5
-
 ## 📄 Description
 This is a simple responsive blog layout built using Bootstrap 5. It includes a navigation bar, blog post cards, and a footer with social icons.
 
